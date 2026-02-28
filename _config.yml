@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: "{{FULL_NAME}}"
-description: "{{DESCRIPTION}}"
-url: "{{URL}}"
-author: "{{FULL_NAME}}"
+title: "Dott.ssa Cristina Pellegrini"
+description: "Psicologa Clinica a Fabriano"
+url: "https://marcodellemarche.github.io/cri"
+author: "Dott.ssa Cristina Pellegrini"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -10,12 +10,12 @@ defaults:
   - scope:
       path: ""
     values:
-      description: "{{OG_DESCRIPTION}}"
+      description: "Psicologa Clinica a Fabriano"
       image:
         path: /assets/og-image.png
         width: 1200
         height: 630
-        alt: "{{FULL_NAME}}"
+        alt: "Dott.ssa Cristina Pellegrini"
 exclude:
   - SETUP.md
   - setup.py
