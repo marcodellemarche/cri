@@ -67,7 +67,7 @@ jobs:
         env:
           PAGE_URL: ${{ needs.deploy.outputs.url }}
         run: |
-          sed -i "s|📎 Download this CV \[as a PDF\]([^)]*)|🌐 Check this CV online at \[GitHub Pages\](${PAGE_URL%/})|" README.md
+          sed -i "s|📎 Scarica questo CV \[in formato PDF\]([^)]*)|🌐 Consulta il CV a \[questo link\](${PAGE_URL%/})|" README.md
 
       - name: Convert to PDF
         env:
@@ -78,11 +78,11 @@ jobs:
             --css '.page-break { page-break-after: always; }' \
             --pdf-options '{ "format": "a4", "margin": "15mm 15mm" }' \
             --launch-options '{ "args": [ "--no-sandbox" ] }'
-          mv README.pdf cv.pdf
+          mv README.pdf cristina-pellegrini-cv.pdf
 
       - name: Upload PDF into latest release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest CV
-          files: cv.pdf
+          files: cristina-pellegrini-cv.pdf

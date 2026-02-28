@@ -1,63 +1,78 @@
-# {{FULL_NAME}}
+# Dott.ssa Cristina Pellegrini
 
-<img src="assets/profile.png" alt="Profile picture" width="200" align="right" style="border-radius: 50%; object-fit: cover;"/>
+<img src="assets/profile.png" alt="Foto profilo" width="200" align="right" style="border-radius: 50%; object-fit: cover;"/>
 
-*Results-driven aerospace software engineer with a decade of hands-on experience at the crossroads of orbital mechanics and embedded systems. Known for delivering mission-critical software under impossible deadlines — and occasional zero-gravity conditions. Passionate about elegant architecture, ruthless simplicity, and the view from 384,400 km up.* 🌝
+*Psicologa clinica con formazione in Psicoterapia Cognitivo Interpersonale e specializzazione nel trattamento neuropsicologico dei Disturbi Specifici dell'Apprendimento. Offre percorsi di sostegno psicologico personalizzati per bambini, adolescenti e adulti, con attenzione al benessere della persona nella sua interezza.* 🧠
 
-[Email](mailto:{{EMAIL}}) / [LinkedIn](https://www.linkedin.com/in/{{LINKEDIN_USERNAME}}) / [GitHub](https://github.com/{{GITHUB_USERNAME}}) / [Instagram](https://www.instagram.com/{{INSTAGRAM_USERNAME}})
+[Email](mailto:cri@gmail.com) / [MioDottore](https://www.miodottore.it/cristina-pellegrini-4/psicologo/fabriano) / [LinkedIn](https://www.linkedin.com/in/cristina-pellegrini-316082111)
 
-📎 Download this CV [as a PDF](https://github.com/{{GITHUB_USERNAME}}/{{REPO_NAME}}/releases/download/latest/cv.pdf)
+📎 Scarica questo CV [in formato PDF](https://github.com/marcodellemarche/cri/releases/download/latest/cristina-pellegrini-cv.pdf)
 
-## 🌙 Experience
+## 🧩 Attività professionale
 
-**Senior Satellite Software Engineer** @ [SatCom Solutions](http://satcomsolutions.net) *(Jun 2026 - Present)*
+**Psicologa Clinica** @ [Studio Dott.ssa Pellegrini, Psicologa](https://www.miodottore.it/cristina-pellegrini-4/psicologo/fabriano) *(in corso)*
 
-Leading the software team responsible for the communication stack of a constellation of 24 low-Earth-orbit satellites.
+Esercizio della professione in studio privato a Fabriano (PG), con presa in carico individuale di bambini (dagli 11 anni), adolescenti e adulti.
 
-- Redesigned the onboard firmware for attitude control systems, improving pointing accuracy by 15 arc-seconds and reducing fuel consumption by 8%.
-- Built a predictive maintenance pipeline that ingested telemetry from all 24 satellites in real time, preventing 3 critical failures in its first year of operation.
-- Mentored a team of 6 engineers across two continents, introducing trunk-based development and cutting release cycle time from 6 weeks to 10 days.
+- Erogazione di colloqui psicologici individuali, percorsi di sostegno psicologico e trattamento dei Disturbi Specifici dell'Apprendimento (DSA).
+- Supporto alla genitorialità e consulenza in ambito scolastico.
+- Ogni intervento è costruito in modo personalizzato, nel rispetto dei bisogni, delle risorse e dei tempi di ciascuna persona.
+- Approccio orientato alla Psicoterapia Cognitivo Interpersonale.
 
-***Technologies:*** C/C++, Python, FreeRTOS, CAN bus, Kafka, Kubernetes, MATLAB.
+***Aree di intervento:*** ansia, attacchi di panico, depressione, disturbi dell'umore, disturbi di personalità, PTSD, lutto, difficoltà relazionali, dipendenza affettiva, disturbi psicosomatici, DSA, sostegno alla genitorialità.
 
-**Satellite Repair Technician** @ [SatCom Solutions](http://satcomsolutions.net) *(Jan 2023 - Jun 2026)*
+## 📍 Studio
 
-Conducted hands-on maintenance of communication satellites in geostationary and low-Earth orbit.
+**Studio Dott.ssa Pellegrini, Psicologa**
+Piazza Garibaldi, 4 — Primo piano
+60044 Fabriano (AN)
+Tel: [0732 035272](tel:073203527)
 
-- Performed 12 EVA missions to service onboard hardware, achieving a 100% mission success rate.
-- Reduced average satellite downtime by 40% by introducing a structured fault-diagnosis protocol adopted fleet-wide.
-- Developed Python tooling to automate pre-EVA checklist verification, saving an average of 2 hours per mission.
+## 💼 Prestazioni
 
-***Technologies:*** Python, embedded C, satellite communication protocols, zero-gravity wrenches.
+| Prestazione | Costo |
+|---|---|
+| Colloquio individuale | 60 € |
+| Colloquio psicologico individuale | 60 € |
+| Sostegno psicologico | 60 € |
+| Sostegno psicologico adolescenti | 60 € |
+| Trattamento DSA | 60 € |
+| Trattamento dello stress | 60 € |
+| Sostegno alla genitorialità | su richiesta |
 
-## 👨‍🚀 Education
+Pagamento accettato tramite contanti, bonifico, bonifico istantaneo e PayPal.
 
-**Ph.D. in Aerospace Engineering** @ [Università di Formaggio Lunare](https://www.formaggiolunare.edu) *(Aug 2020 - Dec 2022)*
+## ⭐ Recensioni dei pazienti
 
-Dissertation: *Fault-tolerant software architectures for deep-space communication networks.* Graduated with honours.
+> *"Una garanzia di serietà e preparazione. Apprezzo molto la sua capacità di ascolto unita a una visione sempre lucida e risolutiva: un contributo di grande valore che fa davvero la differenza."*
+> — F.F., febbraio 2026
 
-**B.Sc. in Computer Engineering** @ [Università Comica delle Stelle](https://www.stellecomiche.edu) *(Sep 2016 - Jul 2020)*
+> *"Ho appena concluso il mio percorso con la dott.ssa Pellegrini e non posso far altro che ringraziarla profondamente. Mi ha aiutata a comprendere le origini di alcuni miei comportamenti e ad abbandonarli per vivere più in serenità. Mi sono sentita molto accolta e compresa fin da subito."*
+> — C.E., febbraio 2026
 
-Final grade: 110/110 cum laude. Thesis on real-time scheduling algorithms for embedded space systems.
+> *"Ho avuto la dott.ssa Pellegrini come riferimento per diversi anni a seguito di un momento di ansia. Mi ha aiutato tantissimo e ha dimostrato una profonda umanità! Una professionista che consiglio caldamente."*
+> — V.G., febbraio 2026
 
-## 🌌 Extracurriculars
+## 🎓 Formazione
 
-**Technical Lead Volunteer** @ [Cosmic Communicators](http://cosmiccommunicators.club) *(Oct 2023 - Present)*
+**Specializzazione in Psicoterapia Cognitivo Interpersonale** @ [Scuola ARPCI](https://www.arpci.it) *(conseguita)*
 
-Leading the engineering chapter of an international non-profit that builds open-source ground station software for amateur satellite operators.
+Percorso di specializzazione quadriennale in psicoterapia ad orientamento cognitivo interpersonale, presso la scuola ARPCI di Roma.
 
-**Astro-Pizza Baking Course** @ [PizzaGalaxy Academy](https://www.pizzagalaxy.edu) *(May 2022 - Jun 2022)*
+**Master in Valutazione e Trattamento Neuropsicologico dei DSA** *(conseguito)*
 
-Mastered the delicate art of baking in a pressurised environment. Transferable skills: precision, timing, and performing well under heat.
+Master specialistico focalizzato sulla valutazione e il trattamento neuropsicologico dei Disturbi Specifici dell'Apprendimento.
 
-## 🛠 Skills
+**Laurea Magistrale in Psicologia Clinica della Salute e Neuropsicologia** @ [Università degli Studi di Firenze](https://www.unifi.it) *(conseguita)*
 
-**Programming languages:** C, C++, Python, Rust, Bash
+**Laurea Triennale in Scienze e Tecniche Psicologiche dei Processi Mentali** @ [Università degli Studi di Perugia](https://www.unipg.it) *(conseguita)*
 
-**Frameworks & tools:** FreeRTOS, ROS, Kafka, Kubernetes, Docker, Git
+## 🛠 Competenze
 
-**Domains:** embedded systems, satellite communication, distributed systems, real-time computing
+**Ambiti clinici:** psicologia clinica, psicoterapia cognitivo interpersonale, neuropsicologia, valutazione e trattamento DSA
 
-**Languages:** English (fluent), Italian (native), French (conversational)
+**Tipologia di pazienti:** bambini (dagli 11 anni), adolescenti, adulti
 
-*I authorize the processing of personal data contained in my curriculum vitae based on art. 13 GDPR 679/16.*
+**Prestazioni:** colloquio individuale, sostegno psicologico, sostegno alla genitorialità, trattamento DSA, trattamento dello stress
+
+*Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae ai sensi dell'art. 13 del D.Lgs. 196/2003 e dell'art. 13 del Regolamento UE n. 679/2016.*
