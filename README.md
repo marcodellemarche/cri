@@ -28,6 +28,8 @@ Piazza Garibaldi, 4 — Primo piano
 60044 Fabriano (AN)
 Tel: [0732 035272](tel:073203527)
 
+<div class="page-break"></div>
+
 ## 💼 Prestazioni
 
 | Prestazione | Costo |
